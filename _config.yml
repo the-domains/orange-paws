@@ -1,13 +1,26 @@
-layout_spectrum: 0.9265233
-typography_spectrum: 0.5131421
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9336917
+  brandStrength: 0.9683393
   lightness: 0.7107236
-  brandStrength: 0.4227978
   brandColors:
     - '#A7A7A6'
     - '#030202'
     - '#C65C0D'
     - '#5A5A5A'
+    - '#392816'
   rhythmicContrast: 0.7963471
+typography_spectrum: 0.5131421
+layout_spectrum: 0.9265233
 name: Orange Paws
