@@ -1,0 +1,13 @@
+layout_spectrum: 0.9265233
+typography_spectrum: 0.5131421
+color:
+  saturation: 0.9336917
+  lightness: 0.7107236
+  brandStrength: 0.4227978
+  brandColors:
+    - '#A7A7A6'
+    - '#030202'
+    - '#C65C0D'
+    - '#5A5A5A'
+  rhythmicContrast: 0.7963471
+name: Orange Paws
