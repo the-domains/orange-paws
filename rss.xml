@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Orange Paws]]></title>
         <description><![CDATA[Orange Paws]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/orange-paws/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 04:31:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 04:32:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/orange-paws/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.dogsnaturallymagazine.com/wp-content/uploads/2013/04/turmeric-rodney.jpg">]]></description>
+            <link>https://thegrid.ai/orange-paws/if-you-cook-you-may-already-be-familiar-with-turmeric-but/index.html</link>
+            <guid isPermaLink="false">577a7825-ec32-454c-8f8e-3e78d2ea637f</guid>
+            <pubDate>Wed, 09 Mar 2016 04:31:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fff787f-0fa4-4d9c-89db-b7ab97ff216e.jpg">]]></description>
-            <link>undefinedorange-paws-beyond-dog-food/index.html</link>
+            <link>https://thegrid.ai/orange-paws/orange-paws-beyond-dog-food/index.html</link>
             <guid isPermaLink="false">0290d97f-2855-4180-8b7d-deb4a1dc1254</guid>
             <pubDate>Wed, 09 Mar 2016 04:31:16 GMT</pubDate>
         </item>
